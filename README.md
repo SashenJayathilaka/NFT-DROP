@@ -1,5 +1,5 @@
 # NFT DROP React.js
-## <a href="https://host-black.vercel.app/nft/king-of-forest-loded-lion" target="_blank">🔴 LIVE DEMO</a>
+## <a href="https://host-black.vercel.app" target="_blank">🔴 LIVE DEMO</a>
 
 #### PREREQUISITES:
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
