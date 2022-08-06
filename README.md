@@ -107,4 +107,5 @@ npm i react-hot-toast
 ```
 npm i @sanity/image-url
 ```
+![image](https://user-images.githubusercontent.com/99184393/183232514-5997cfc7-127c-4090-af3a-58327b645d5d.png)
 ![Screenshot 2022-08-05 192410](https://user-images.githubusercontent.com/99184393/183094901-b891b595-02e5-421b-9213-60a680ca02e7.png)
